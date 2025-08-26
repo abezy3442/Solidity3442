@@ -1,1 +1,1 @@
-# Solidity3442
+# MySmartContract
